@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    background-image: url(fundo/papel-de-parede-animais.png);
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+}
+
+.tabela{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: floralwhite;
+}
+
+.linha{
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
